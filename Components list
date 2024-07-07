@@ -1,0 +1,8 @@
+### Components Needed ####
+1) Arduino Uno: The microcontroller that acts as the brain of the car.
+2) Ultrasonic Sensor (HC-SR04): Measures the distance to objects in front of the car.
+3) Relay Module: Controls the power supply to the motors, acting as a switch.
+4) DC Motors: Provide the driving force for the car.
+5) Motor Power Supply: A battery pack or other power source for the motors.
+6) Breadboard and Jumper Wires: For building the circuit.
+7) Power Supply for Arduino: Such as a USB cable or a separate battery pack.
