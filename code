@@ -9,7 +9,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 const int ena = 9;   // PWM pin for speed control
 const int in1 = 8;   // IN1 pin for direction control
 const int in2 = 7;   // IN2 pin for direction control
-const int motorSpeed = 128; // Set the motor speed (0-255)
+const int motorSpeed = 128; // Set the motor speed (0-255)// change the value of motorspeed between 1 to 255
 
 void setup() {
   pinMode(ena, OUTPUT);
